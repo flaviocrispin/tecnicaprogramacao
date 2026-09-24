@@ -16,7 +16,7 @@ Abaixo está o passo a passo completo trabalhado em aula para criar, configurar 
 1. Configuração Inicial do Git (Primeira vez no terminal)
 ```bash
 # Define sua identidade nos commits
-git config --global user.name "Seu Nome"
+git config --global user.name "Seu Nome".
 git config --global user.email "seu.email@exemplo.com"
 
 # Define o editor padrão e o nome da branch inicial
@@ -80,14 +80,23 @@ Commits Atômicos: Faça commits frequentes e objetivos, organizando cada mudan�
 ---
 🗓️ Cronograma do Módulo
 Aula	Tema Principal	Conteúdos e Atividades
+
 Aula 1	Git & Versionamento	Instalação, conceitos, workflow, comandos fundamentais e sincronização com GitHub.
+
 Aula 2	NumPy: Arrays 1D	Vetorização, fatiamento, indexação, operações matemáticas e comparativo com listas.
+
 Aula 3	NumPy: Matrizes 2D+	Operações com matrizes n-dimensionais e lançamento do mini-projeto de NumPy.
+
 Aula 4	Pandas: Fundamentos	Estruturas `Series` e `DataFrame`; Leitura e gravação (CSV, Excel, Parquet).
+
 Aula 5	Pandas: Transformações	Manipulação tabular avançada: `concat`, `merge`, `pivot`, `melt` e `groupby`.
+
 Aula 6	Pandas: Limpeza de Dados	Identificação de valores atípicos e faltantes (`isna`, `describe`, `drop`, `dropna`). Definição do Projeto Final.
+
 Aula 7	Pandas: Tratamento Avançado	Substituições com regras, `loc`/`iloc`, `apply`, `map`, `np.where` e `get_dummies`.
+
 Aula 8	Revisão & Mentoria	Revisão geral integrada e plantão de dúvidas do projeto final em grupo.
+
 Aula 9	Apresentação & Rubricas	Apresentação dos projetos finais e devolutiva da avaliação por rubricas.
 
 ---
